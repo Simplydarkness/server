@@ -55,3 +55,6 @@
 [03:51:37] [Server thread/INFO]: elestress was slain by Husk
 [03:52:12] [Server thread/INFO]: elestress lost connection: Timed out
 [03:52:12] [Server thread/INFO]: elestress left the game
+[05:08:14] [User Authenticator #2/INFO]: UUID of player elestress is c822d479-2e70-38ca-a25f-ec926c18f7d8
+[05:08:16] [Server thread/INFO]: elestress joined the game
+[05:08:16] [Server thread/INFO]: elestress[/[0:0:0:0:0:0:0:1%0]:57958] logged in with entity id 2858 at ([world]-6.497589435195396, 69.0, 28.18619122551805)
